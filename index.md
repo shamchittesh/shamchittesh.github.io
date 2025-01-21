@@ -56,4 +56,4 @@ Hi, I'm **Chittesh Sham** (Tesh), a passionate DevOps engineer with [5+ years] o
 
 ---
 
-🎯 **Ready to dive in? Check out the latest post [here](/2024/12/03/deploying-static-react-on-aws-s3.html)!**
+🎯 **Ready to dive in? Check out the latest post [here](/2025/01/21/deploying-static-react-on-aws-s3.html)!**
