@@ -1,4 +1,4 @@
-## Building a Scalable Spring Boot Backend on AWS: EC2 Auto-Scaling with Nginx Load Balancing, Rate-Limiting, and IaC using Terraform and Ansible
+## AutoScalable Spring Boot App - EC2, Nginx, Terraform, Ansible
 
 In this #100DaysDevopChallenge; We will create a dynamic Spring Boot backend image, use it as a launch template for an EC2 Auto Scaling group, and configure Nginx as the load balancer (handling rate-limiting and load balancing) instead of AWS LB. The entire setup will be automated and provisioned using Terraform and Ansible.
 ---
